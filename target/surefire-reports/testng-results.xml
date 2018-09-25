@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="89998" started-at="2018-09-20T07:12:47Z" finished-at="2018-09-20T07:14:17Z">
+    <groups>
+    </groups>
+    <test name="Flipkart" duration-ms="89998" started-at="2018-09-20T07:12:47Z" finished-at="2018-09-20T07:14:17Z">
+      <class name="executionclasses.VisitAboutUsPage_Test">
+        <test-method status="PASS" signature="visit_About_Us_Page()[pri:0, instance:executionclasses.VisitAboutUsPage_Test@2d554825]" name="visit_About_Us_Page" duration-ms="5280" started-at="2018-09-20T12:43:29Z" finished-at="2018-09-20T12:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visit_About_Us_Page -->
+        <test-method status="PASS" signature="checkAboutUsPage()[pri:0, instance:executionclasses.VisitAboutUsPage_Test@2d554825]" name="checkAboutUsPage" duration-ms="5141" started-at="2018-09-20T12:43:35Z" depends-on-methods="executionclasses.VisitAboutUsPage_Test.visit_About_Us_Page" finished-at="2018-09-20T12:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAboutUsPage -->
+      </class> <!-- executionclasses.VisitAboutUsPage_Test -->
+      <class name="executionclasses.LoginPatientPage_Test">
+        <test-method status="PASS" signature="visit_Patient_LogIN_Page()[pri:0, instance:executionclasses.LoginPatientPage_Test@68837a77]" name="visit_Patient_LogIN_Page" duration-ms="6321" started-at="2018-09-20T12:44:02Z" finished-at="2018-09-20T12:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visit_Patient_LogIN_Page -->
+        <test-method status="PASS" signature="LogIN()[pri:0, instance:executionclasses.LoginPatientPage_Test@68837a77]" name="LogIN" duration-ms="3757" started-at="2018-09-20T12:44:08Z" depends-on-methods="executionclasses.LoginPatientPage_Test.visit_Patient_LogIN_Page" finished-at="2018-09-20T12:44:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIN -->
+        <test-method status="PASS" signature="LogOut()[pri:0, instance:executionclasses.LoginPatientPage_Test@68837a77]" name="LogOut" duration-ms="3915" started-at="2018-09-20T12:44:13Z" depends-on-methods="executionclasses.LoginPatientPage_Test.LogIN" finished-at="2018-09-20T12:44:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="PASS" signature="EndTest()[pri:0, instance:executionclasses.LoginPatientPage_Test@68837a77]" name="EndTest" is-config="true" duration-ms="226" started-at="2018-09-20T12:44:17Z" finished-at="2018-09-20T12:44:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+      </class> <!-- executionclasses.LoginPatientPage_Test -->
+      <class name="executionclasses.VisitContactUsPage_Test">
+        <test-method status="PASS" signature="visit_Contact_Us_Page()[pri:0, instance:executionclasses.VisitContactUsPage_Test@6be46e8f]" name="visit_Contact_Us_Page" duration-ms="5266" started-at="2018-09-20T12:43:23Z" finished-at="2018-09-20T12:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visit_Contact_Us_Page -->
+        <test-method status="PASS" signature="checkContactUsPage()[pri:0, instance:executionclasses.VisitContactUsPage_Test@6be46e8f]" name="checkContactUsPage" duration-ms="114" started-at="2018-09-20T12:43:28Z" depends-on-methods="executionclasses.VisitContactUsPage_Test.visit_Contact_Us_Page" finished-at="2018-09-20T12:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContactUsPage -->
+      </class> <!-- executionclasses.VisitContactUsPage_Test -->
+      <class name="executionclasses.VisitHomePage_Test">
+        <test-method status="PASS" signature="visitPage()[pri:0, instance:executionclasses.VisitHomePage_Test@64616ca2]" name="visitPage" is-config="true" duration-ms="16953" started-at="2018-09-20T12:42:47Z" finished-at="2018-09-20T12:43:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitPage -->
+        <test-method status="PASS" signature="checkHomePage()[pri:0, instance:executionclasses.VisitHomePage_Test@64616ca2]" name="checkHomePage" duration-ms="10127" started-at="2018-09-20T12:43:04Z" finished-at="2018-09-20T12:43:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHomePage -->
+      </class> <!-- executionclasses.VisitHomePage_Test -->
+      <class name="executionclasses.RegisterAsAPatientPage_Test">
+        <test-method status="PASS" signature="visit_Register_Page()[pri:0, instance:executionclasses.RegisterAsAPatientPage_Test@4cb2c100]" name="visit_Register_Page" duration-ms="10295" started-at="2018-09-20T12:43:41Z" finished-at="2018-09-20T12:43:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visit_Register_Page -->
+        <test-method status="PASS" signature="Register_New_User()[pri:0, instance:executionclasses.RegisterAsAPatientPage_Test@4cb2c100]" name="Register_New_User" duration-ms="9671" started-at="2018-09-20T12:43:51Z" depends-on-methods="executionclasses.RegisterAsAPatientPage_Test.visit_Register_Page" finished-at="2018-09-20T12:44:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register_New_User -->
+      </class> <!-- executionclasses.RegisterAsAPatientPage_Test -->
+      <class name="executionclasses.HealthForumPage_Test">
+        <test-method status="PASS" signature="clickOnHealthForumLink()[pri:0, instance:executionclasses.HealthForumPage_Test@77b52d12]" name="clickOnHealthForumLink" duration-ms="6413" started-at="2018-09-20T12:43:15Z" finished-at="2018-09-20T12:43:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnHealthForumLink -->
+        <test-method status="PASS" signature="checkHealthForumPage()[pri:0, instance:executionclasses.HealthForumPage_Test@77b52d12]" name="checkHealthForumPage" duration-ms="136" started-at="2018-09-20T12:43:22Z" depends-on-methods="executionclasses.HealthForumPage_Test.clickOnHealthForumLink" finished-at="2018-09-20T12:43:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHealthForumPage -->
+      </class> <!-- executionclasses.HealthForumPage_Test -->
+    </test> <!-- Flipkart -->
+  </suite> <!-- Suite1 -->
+</testng-results>

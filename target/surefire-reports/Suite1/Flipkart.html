@@ -1,0 +1,139 @@
+<html>
+<head>
+<title>TestNG:  Flipkart</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Flipkart</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>12/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Sep 20 12:42:47 IST 2018</td>
+</tr>
+<tr><td>Total time:</td><td>89 seconds (89998 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='executionclasses.LoginPatientPage_Test.LogIN()'><b>LogIN</b><br>Test class: executionclasses.LoginPatientPage_Test</td>
+<td></td>
+<td>3</td>
+<td>executionclasses.LoginPatientPage_Test@68837a77</td></tr>
+<tr>
+<td title='executionclasses.LoginPatientPage_Test.LogOut()'><b>LogOut</b><br>Test class: executionclasses.LoginPatientPage_Test</td>
+<td></td>
+<td>3</td>
+<td>executionclasses.LoginPatientPage_Test@68837a77</td></tr>
+<tr>
+<td title='executionclasses.RegisterAsAPatientPage_Test.Register_New_User()'><b>Register_New_User</b><br>Test class: executionclasses.RegisterAsAPatientPage_Test</td>
+<td></td>
+<td>9</td>
+<td>executionclasses.RegisterAsAPatientPage_Test@4cb2c100</td></tr>
+<tr>
+<td title='executionclasses.VisitAboutUsPage_Test.checkAboutUsPage()'><b>checkAboutUsPage</b><br>Test class: executionclasses.VisitAboutUsPage_Test</td>
+<td></td>
+<td>5</td>
+<td>executionclasses.VisitAboutUsPage_Test@2d554825</td></tr>
+<tr>
+<td title='executionclasses.VisitContactUsPage_Test.checkContactUsPage()'><b>checkContactUsPage</b><br>Test class: executionclasses.VisitContactUsPage_Test</td>
+<td></td>
+<td>0</td>
+<td>executionclasses.VisitContactUsPage_Test@6be46e8f</td></tr>
+<tr>
+<td title='executionclasses.HealthForumPage_Test.checkHealthForumPage()'><b>checkHealthForumPage</b><br>Test class: executionclasses.HealthForumPage_Test</td>
+<td></td>
+<td>0</td>
+<td>executionclasses.HealthForumPage_Test@77b52d12</td></tr>
+<tr>
+<td title='executionclasses.VisitHomePage_Test.checkHomePage()'><b>checkHomePage</b><br>Test class: executionclasses.VisitHomePage_Test</td>
+<td></td>
+<td>10</td>
+<td>executionclasses.VisitHomePage_Test@64616ca2</td></tr>
+<tr>
+<td title='executionclasses.HealthForumPage_Test.clickOnHealthForumLink()'><b>clickOnHealthForumLink</b><br>Test class: executionclasses.HealthForumPage_Test</td>
+<td></td>
+<td>6</td>
+<td>executionclasses.HealthForumPage_Test@77b52d12</td></tr>
+<tr>
+<td title='executionclasses.VisitAboutUsPage_Test.visit_About_Us_Page()'><b>visit_About_Us_Page</b><br>Test class: executionclasses.VisitAboutUsPage_Test</td>
+<td></td>
+<td>5</td>
+<td>executionclasses.VisitAboutUsPage_Test@2d554825</td></tr>
+<tr>
+<td title='executionclasses.VisitContactUsPage_Test.visit_Contact_Us_Page()'><b>visit_Contact_Us_Page</b><br>Test class: executionclasses.VisitContactUsPage_Test</td>
+<td></td>
+<td>5</td>
+<td>executionclasses.VisitContactUsPage_Test@6be46e8f</td></tr>
+<tr>
+<td title='executionclasses.LoginPatientPage_Test.visit_Patient_LogIN_Page()'><b>visit_Patient_LogIN_Page</b><br>Test class: executionclasses.LoginPatientPage_Test</td>
+<td></td>
+<td>6</td>
+<td>executionclasses.LoginPatientPage_Test@68837a77</td></tr>
+<tr>
+<td title='executionclasses.RegisterAsAPatientPage_Test.visit_Register_Page()'><b>visit_Register_Page</b><br>Test class: executionclasses.RegisterAsAPatientPage_Test</td>
+<td></td>
+<td>10</td>
+<td>executionclasses.RegisterAsAPatientPage_Test@4cb2c100</td></tr>
+</table><p>
+</body>
+</html>

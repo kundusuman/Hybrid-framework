@@ -1,0 +1,708 @@
+12 Sep 2018 12:19:39,039[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 12:19:39,039[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 12:19:39,039[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 12:19:43,043[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 12:19:43,043[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 12:19:53,053[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 12:20:03,003[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 12:20:03,003[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 12:20:09,009[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+12 Sep 2018 12:20:10,010[main] DEBUG utility.Log4j  - visiting aboutus spage
+12 Sep 2018 12:20:15,015[main] WARN  utility.Log4j  - comparing the page url to validate the page
+12 Sep 2018 12:20:15,015[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+12 Sep 2018 12:20:26,026[main] INFO  utility.Log4j  - clicking in the signup link
+12 Sep 2018 12:20:31,031[main] WARN  utility.Log4j  - comparing the value to check wheather this page is signup page or not
+12 Sep 2018 12:20:32,032[main] INFO  utility.Log4j  - giving valid crediantial to signup
+12 Sep 2018 12:20:32,032[main] WARN  utility.Log4j  - error may occure due to excel sheet failure
+12 Sep 2018 12:20:32,032[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:20:32,032[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:20:32,032[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:20:33,033[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:20:42,042[main] INFO  utility.Log4j  - visiting login page
+12 Sep 2018 12:20:45,045[main] WARN  utility.Log4j  - error may occur during visiting
+12 Sep 2018 12:20:48,048[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+12 Sep 2018 12:20:51,051[main] INFO  utility.Log4j  - inserting a useremail and password crediential
+12 Sep 2018 12:20:51,051[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:20:52,052[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:20:56,056[main] INFO  utility.Log4j  - logging out from a account
+12 Sep 2018 12:20:57,057[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 12:20:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 12:20:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 12:20:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 12:20:57,057[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 12:20:57,057[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 12:20:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 12:20:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 12:20:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 12:20:57,057[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 12:20:57,057[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 12:34:18,018[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 12:34:18,018[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 12:34:18,018[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 12:34:23,023[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 12:34:23,023[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 12:34:32,032[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 12:34:42,042[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 12:34:42,042[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 12:34:48,048[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+12 Sep 2018 12:34:48,048[main] DEBUG utility.Log4j  - visiting aboutus spage
+12 Sep 2018 12:34:54,054[main] WARN  utility.Log4j  - comparing the page url to validate the page
+12 Sep 2018 12:34:54,054[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+12 Sep 2018 12:35:05,005[main] INFO  utility.Log4j  - clicking in the signup link
+12 Sep 2018 12:35:10,010[main] WARN  utility.Log4j  - comparing the value to check wheather this page is signup page or not
+12 Sep 2018 12:35:10,010[main] INFO  utility.Log4j  - giving valid crediantial to signup
+12 Sep 2018 12:35:10,010[main] WARN  utility.Log4j  - error may occure due to excel sheet failure
+12 Sep 2018 12:35:10,010[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:35:11,011[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:35:11,011[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:35:11,011[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:35:20,020[main] INFO  utility.Log4j  - visiting login page
+12 Sep 2018 12:35:23,023[main] WARN  utility.Log4j  - error may occur during visiting
+12 Sep 2018 12:35:26,026[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+12 Sep 2018 12:35:30,030[main] INFO  utility.Log4j  - inserting a useremail and password crediential
+12 Sep 2018 12:35:30,030[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:35:30,030[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 12:35:34,034[main] INFO  utility.Log4j  - logging out from a account
+12 Sep 2018 12:35:35,035[main] INFO  utility.Log4j  - ****************            WeHealU       -E---N---D-      *********************
+12 Sep 2018 12:35:35,035[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 12:35:35,035[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 12:35:36,036[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 12:35:36,036[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 12:35:36,036[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 12:35:36,036[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 12:35:36,036[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 12:35:36,036[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 12:35:36,036[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 12:35:36,036[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 12:35:36,036[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 12:35:36,036[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 12:35:36,036[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 13:40:18,018[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:40:18,018[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:40:18,018[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 13:40:22,022[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 13:40:22,022[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 13:40:32,032[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 13:40:42,042[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 13:40:43,043[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:40:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:40:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:40:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:40:43,043[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:40:43,043[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:40:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:40:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:40:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:40:43,043[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:40:43,043[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 13:45:18,018[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:45:18,018[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:45:18,018[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 13:45:22,022[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 13:45:22,022[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 13:45:32,032[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 13:45:42,042[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 13:45:43,043[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:45:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:45:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:45:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:45:43,043[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:45:43,043[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:45:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:45:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:45:43,043[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:45:43,043[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:45:43,043[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 13:49:04,004[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:49:04,004[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:49:04,004[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 13:49:09,009[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 13:49:09,009[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 13:49:16,016[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 13:49:26,026[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 13:49:27,027[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:49:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:49:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:49:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:49:27,027[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:49:27,027[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:49:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:49:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:49:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:49:27,027[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:49:27,027[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 13:52:01,001[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:52:01,001[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:52:01,001[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 13:52:05,005[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 13:52:05,005[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 13:52:14,014[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 13:52:24,024[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 13:52:24,024[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:52:24,024[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:52:24,024[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:52:24,024[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:52:24,024[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:52:24,024[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:52:24,024[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:52:24,024[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:52:24,024[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:52:24,024[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:52:25,025[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 13:54:59,059[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:54:59,059[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:54:59,059[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 13:55:03,003[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 13:55:03,003[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 13:55:11,011[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 13:55:21,021[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 13:55:22,022[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:55:22,022[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:55:22,022[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:55:22,022[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:55:22,022[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:55:22,022[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:55:22,022[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:55:22,022[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:55:22,022[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:55:22,022[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:55:22,022[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 13:55:22,022[main] ERROR utility.Log4j  - message sending fail
+12 Sep 2018 13:57:52,052[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:57:52,052[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:57:52,052[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 13:57:56,056[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 13:57:56,056[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 13:58:16,016[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 13:58:26,026[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 13:58:27,027[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:58:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:58:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:58:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:58:27,027[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:58:27,027[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:58:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:58:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:58:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:58:27,027[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:58:27,027[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 13:58:27,027[main] ERROR utility.Log4j  - message sending fail
+12 Sep 2018 13:59:10,010[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:59:10,010[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:59:10,010[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 13:59:14,014[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 13:59:14,014[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 13:59:23,023[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 13:59:33,033[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 13:59:34,034[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:59:34,034[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:59:34,034[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:59:34,034[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:59:34,034[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:59:34,034[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 13:59:34,034[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 13:59:34,034[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 13:59:34,034[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 13:59:34,034[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 13:59:34,034[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 13:59:34,034[main] ERROR utility.Log4j  - message sending fail
+12 Sep 2018 13:59:47,047[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:59:47,047[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 13:59:47,047[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 13:59:51,051[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 13:59:51,051[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 13:59:59,059[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 14:00:09,009[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 14:00:10,010[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:00:10,010[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:00:10,010[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:00:10,010[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:00:10,010[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:00:10,010[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:00:10,010[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:00:10,010[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:00:10,010[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:00:10,010[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:00:10,010[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 14:01:03,003[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:01:03,003[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:01:03,003[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 14:01:08,008[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 14:01:08,008[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 14:01:16,016[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 14:01:26,026[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 14:01:27,027[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:01:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:01:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:01:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:01:27,027[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:01:27,027[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:01:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:01:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:01:27,027[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:01:27,027[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:01:27,027[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 14:06:58,058[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:06:58,058[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:06:58,058[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 14:07:03,003[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 14:07:03,003[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 14:07:19,019[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 14:07:29,029[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 14:07:30,030[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:07:30,030[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:07:30,030[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:07:30,030[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:07:30,030[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:07:30,030[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:07:30,030[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:07:30,030[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:07:30,030[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:07:30,030[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:07:30,030[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 14:10:36,036[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:10:36,036[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:10:36,036[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 14:10:41,041[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 14:10:41,041[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 14:10:51,051[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 14:11:02,002[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 14:11:02,002[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:11:02,002[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:11:02,002[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:11:02,002[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:11:02,002[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:11:03,003[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:11:03,003[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:11:03,003[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:11:03,003[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:11:03,003[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:11:03,003[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 14:13:27,027[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:13:27,027[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:13:27,027[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 14:13:32,032[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 14:13:32,032[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 14:13:40,040[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 14:13:50,050[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 14:13:51,051[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:13:51,051[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:13:51,051[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:13:51,051[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:13:51,051[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:13:51,051[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:13:51,051[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:13:51,051[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:13:51,051[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:13:51,051[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:13:51,051[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 14:19:32,032[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:19:32,032[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:19:32,032[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 14:19:37,037[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 14:19:37,037[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 14:19:45,045[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 14:19:55,055[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 14:19:55,055[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:19:55,055[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:19:55,055[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:19:55,055[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:19:55,055[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:19:56,056[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:19:56,056[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:19:56,056[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:19:56,056[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:19:56,056[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:19:56,056[main] DEBUG utility.Log4j  - trying to sending message
+12 Sep 2018 14:21:19,019[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:21:19,019[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:21:19,019[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+12 Sep 2018 14:21:24,024[main] DEBUG utility.Log4j  - maximizing window
+12 Sep 2018 14:21:24,024[main] DEBUG utility.Log4j  - opening url
+12 Sep 2018 14:21:32,032[main] INFO  utility.Log4j  - Excel sheet opened
+12 Sep 2018 14:21:42,042[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 14:21:42,042[main] DEBUG utility.Log4j  - visiting contact us spage
+12 Sep 2018 14:21:48,048[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+12 Sep 2018 14:21:48,048[main] DEBUG utility.Log4j  - visiting aboutus spage
+12 Sep 2018 14:21:53,053[main] WARN  utility.Log4j  - comparing the page url to validate the page
+12 Sep 2018 14:21:54,054[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+12 Sep 2018 14:22:04,004[main] INFO  utility.Log4j  - clicking in the signup link
+12 Sep 2018 14:22:09,009[main] WARN  utility.Log4j  - comparing the value to check wheather this page is signup page or not
+12 Sep 2018 14:22:10,010[main] INFO  utility.Log4j  - giving valid crediantial to signup
+12 Sep 2018 14:22:10,010[main] WARN  utility.Log4j  - error may occure due to excel sheet failure
+12 Sep 2018 14:22:10,010[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 14:22:10,010[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 14:22:10,010[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 14:22:11,011[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 14:22:20,020[main] INFO  utility.Log4j  - visiting login page
+12 Sep 2018 14:22:23,023[main] WARN  utility.Log4j  - error may occur during visiting
+12 Sep 2018 14:22:26,026[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+12 Sep 2018 14:22:29,029[main] INFO  utility.Log4j  - inserting a useremail and password crediential
+12 Sep 2018 14:22:29,029[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 14:22:30,030[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+12 Sep 2018 14:22:33,033[main] INFO  utility.Log4j  - logging out from a account
+12 Sep 2018 14:22:35,035[main] INFO  utility.Log4j  - ****************            WeHealU       -E---N---D-      *********************
+12 Sep 2018 14:22:35,035[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:22:35,035[main] INFO  utility.Log4j  -                                                                                                
+12 Sep 2018 14:22:35,035[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:22:35,035[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:22:35,035[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:22:35,035[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:22:35,035[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:22:35,035[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12 Sep 2018 14:22:35,035[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12 Sep 2018 14:22:35,035[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12 Sep 2018 14:22:35,035[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12 Sep 2018 14:22:35,035[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12 Sep 2018 14:22:35,035[main] DEBUG utility.Log4j  - trying to sending message
+16 Sep 2018 08:54:32,032[main] INFO  utility.Log4j  -                                                                                                
+16 Sep 2018 08:54:32,032[main] INFO  utility.Log4j  -                                                                                                
+16 Sep 2018 08:54:32,032[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+16 Sep 2018 08:54:37,037[main] DEBUG utility.Log4j  - maximizing window
+16 Sep 2018 08:54:37,037[main] DEBUG utility.Log4j  - opening url
+16 Sep 2018 08:54:46,046[main] INFO  utility.Log4j  - Excel sheet opened
+16 Sep 2018 08:54:56,056[main] DEBUG utility.Log4j  - visiting contact us spage
+16 Sep 2018 08:54:56,056[main] DEBUG utility.Log4j  - visiting contact us spage
+16 Sep 2018 08:55:02,002[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+16 Sep 2018 08:55:03,003[main] DEBUG utility.Log4j  - visiting aboutus spage
+16 Sep 2018 08:55:08,008[main] WARN  utility.Log4j  - comparing the page url to validate the page
+16 Sep 2018 08:55:08,008[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+16 Sep 2018 08:55:19,019[main] INFO  utility.Log4j  - clicking in the signup link
+16 Sep 2018 08:55:24,024[main] WARN  utility.Log4j  - comparing the value to check wheather this page is signup page or not
+16 Sep 2018 08:55:25,025[main] INFO  utility.Log4j  - giving valid crediantial to signup
+16 Sep 2018 08:55:25,025[main] WARN  utility.Log4j  - error may occure due to excel sheet failure
+16 Sep 2018 08:55:25,025[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+16 Sep 2018 08:55:25,025[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+16 Sep 2018 08:55:25,025[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+16 Sep 2018 08:55:26,026[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+16 Sep 2018 08:55:42,042[main] INFO  utility.Log4j  - visiting login page
+16 Sep 2018 08:55:45,045[main] WARN  utility.Log4j  - error may occur during visiting
+16 Sep 2018 08:55:48,048[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+16 Sep 2018 08:55:52,052[main] INFO  utility.Log4j  - inserting a useremail and password crediential
+16 Sep 2018 08:55:52,052[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+16 Sep 2018 08:55:52,052[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+16 Sep 2018 08:55:56,056[main] INFO  utility.Log4j  - logging out from a account
+16 Sep 2018 08:55:57,057[main] INFO  utility.Log4j  - ****************            WeHealU       -E---N---D-      *********************
+16 Sep 2018 08:55:57,057[main] INFO  utility.Log4j  -                                                                                                
+16 Sep 2018 08:55:57,057[main] INFO  utility.Log4j  -                                                                                                
+16 Sep 2018 08:55:58,058[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Sep 2018 08:55:58,058[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16 Sep 2018 08:55:58,058[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16 Sep 2018 08:55:58,058[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16 Sep 2018 08:55:58,058[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16 Sep 2018 08:55:58,058[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16 Sep 2018 08:55:58,058[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16 Sep 2018 08:55:58,058[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16 Sep 2018 08:55:58,058[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16 Sep 2018 08:55:58,058[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16 Sep 2018 08:55:58,058[main] DEBUG utility.Log4j  - trying to sending message
+19 Sep 2018 01:00:32,032[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:00:32,032[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:00:32,032[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+19 Sep 2018 01:00:36,036[main] DEBUG utility.Log4j  - maximizing window
+19 Sep 2018 01:00:36,036[main] DEBUG utility.Log4j  - opening url
+19 Sep 2018 01:00:47,047[main] INFO  utility.Log4j  - Excel sheet opened
+19 Sep 2018 01:00:57,057[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 01:00:58,058[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 01:01:04,004[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 01:01:04,004[main] DEBUG utility.Log4j  - visiting aboutus spage
+19 Sep 2018 01:01:09,009[main] WARN  utility.Log4j  - comparing the page url to validate the page
+19 Sep 2018 01:01:10,010[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 01:01:20,020[main] INFO  utility.Log4j  - clicking in the signup link
+19 Sep 2018 01:01:25,025[main] WARN  utility.Log4j  - comparing the value to check wheather this page is signup page or not
+19 Sep 2018 01:01:26,026[main] INFO  utility.Log4j  - giving valid crediantial to signup
+19 Sep 2018 01:01:26,026[main] WARN  utility.Log4j  - error may occure due to excel sheet failure
+19 Sep 2018 01:01:26,026[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:01:26,026[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:01:26,026[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:01:27,027[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:01:36,036[main] INFO  utility.Log4j  - visiting login page
+19 Sep 2018 01:01:39,039[main] WARN  utility.Log4j  - error may occur during visiting
+19 Sep 2018 01:01:43,043[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+19 Sep 2018 01:01:46,046[main] INFO  utility.Log4j  - inserting a useremail and password crediential
+19 Sep 2018 01:01:46,046[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:01:46,046[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:01:50,050[main] INFO  utility.Log4j  - logging out from a account
+19 Sep 2018 01:01:52,052[main] INFO  utility.Log4j  - ****************            WeHealU       -E---N---D-      *********************
+19 Sep 2018 01:01:52,052[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:01:52,052[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:01:53,053[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 01:01:53,053[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 01:01:53,053[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 01:01:53,053[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 01:01:53,053[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 01:01:53,053[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 01:01:53,053[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 01:01:53,053[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 01:01:53,053[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 01:01:53,053[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 01:03:33,033[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:03:33,033[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:03:33,033[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+19 Sep 2018 01:03:37,037[main] DEBUG utility.Log4j  - maximizing window
+19 Sep 2018 01:03:37,037[main] DEBUG utility.Log4j  - opening url
+19 Sep 2018 01:03:48,048[main] INFO  utility.Log4j  - Excel sheet opened
+19 Sep 2018 01:03:58,058[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 01:03:58,058[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 01:04:04,004[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 01:04:04,004[main] DEBUG utility.Log4j  - visiting aboutus spage
+19 Sep 2018 01:04:10,010[main] WARN  utility.Log4j  - comparing the page url to validate the page
+19 Sep 2018 01:04:10,010[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 01:04:21,021[main] INFO  utility.Log4j  - clicking in the signup link
+19 Sep 2018 01:04:26,026[main] WARN  utility.Log4j  - comparing the value to check wheather this page is signup page or not
+19 Sep 2018 01:04:26,026[main] INFO  utility.Log4j  - giving valid crediantial to signup
+19 Sep 2018 01:04:26,026[main] WARN  utility.Log4j  - error may occure due to excel sheet failure
+19 Sep 2018 01:04:26,026[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:04:26,026[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:04:27,027[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:04:27,027[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:04:36,036[main] INFO  utility.Log4j  - visiting login page
+19 Sep 2018 01:04:39,039[main] WARN  utility.Log4j  - error may occur during visiting
+19 Sep 2018 01:04:42,042[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+19 Sep 2018 01:04:46,046[main] INFO  utility.Log4j  - inserting a useremail and password crediential
+19 Sep 2018 01:04:46,046[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:04:46,046[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:04:50,050[main] INFO  utility.Log4j  - logging out from a account
+19 Sep 2018 01:04:51,051[main] INFO  utility.Log4j  - ****************            WeHealU       -E---N---D-      *********************
+19 Sep 2018 01:04:51,051[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:04:51,051[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:04:52,052[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 01:04:52,052[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 01:04:52,052[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 01:04:52,052[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 01:04:52,052[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 01:04:52,052[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 01:04:52,052[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 01:04:52,052[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 01:04:52,052[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 01:04:52,052[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 01:07:21,021[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:07:21,021[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:07:21,021[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+19 Sep 2018 01:07:26,026[main] DEBUG utility.Log4j  - maximizing window
+19 Sep 2018 01:07:26,026[main] DEBUG utility.Log4j  - opening url
+19 Sep 2018 01:07:36,036[main] INFO  utility.Log4j  - Excel sheet opened
+19 Sep 2018 01:07:46,046[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 01:07:46,046[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 01:07:52,052[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 01:07:53,053[main] DEBUG utility.Log4j  - visiting aboutus spage
+19 Sep 2018 01:07:58,058[main] WARN  utility.Log4j  - comparing the page url to validate the page
+19 Sep 2018 01:07:58,058[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 01:08:09,009[main] INFO  utility.Log4j  - clicking in the signup link
+19 Sep 2018 01:08:14,014[main] WARN  utility.Log4j  - comparing the value to check wheather this page is signup page or not
+19 Sep 2018 01:08:14,014[main] INFO  utility.Log4j  - giving valid crediantial to signup
+19 Sep 2018 01:08:14,014[main] WARN  utility.Log4j  - error may occure due to excel sheet failure
+19 Sep 2018 01:08:14,014[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:08:15,015[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:08:15,015[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:08:15,015[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:08:24,024[main] INFO  utility.Log4j  - visiting login page
+19 Sep 2018 01:08:27,027[main] WARN  utility.Log4j  - error may occur during visiting
+19 Sep 2018 01:08:30,030[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+19 Sep 2018 01:08:34,034[main] INFO  utility.Log4j  - inserting a useremail and password crediential
+19 Sep 2018 01:08:34,034[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:08:34,034[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:08:38,038[main] INFO  utility.Log4j  - logging out from a account
+19 Sep 2018 01:08:39,039[main] INFO  utility.Log4j  - ****************            WeHealU       -E---N---D-      *********************
+19 Sep 2018 01:08:39,039[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:08:39,039[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:08:40,040[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 01:08:40,040[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 01:08:40,040[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 01:08:40,040[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 01:08:40,040[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 01:08:40,040[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 01:08:40,040[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 01:08:40,040[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 01:08:40,040[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 01:08:40,040[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 01:09:35,035[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:09:35,035[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:09:35,035[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+19 Sep 2018 01:09:40,040[main] DEBUG utility.Log4j  - maximizing window
+19 Sep 2018 01:09:40,040[main] DEBUG utility.Log4j  - opening url
+19 Sep 2018 01:09:52,052[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:09:52,052[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:09:52,052[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+19 Sep 2018 01:09:57,057[main] DEBUG utility.Log4j  - maximizing window
+19 Sep 2018 01:09:57,057[main] DEBUG utility.Log4j  - opening url
+19 Sep 2018 01:10:07,007[main] INFO  utility.Log4j  - Excel sheet opened
+19 Sep 2018 01:10:17,017[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 01:10:18,018[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 01:10:24,024[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 01:10:25,025[main] DEBUG utility.Log4j  - visiting aboutus spage
+19 Sep 2018 01:10:30,030[main] WARN  utility.Log4j  - comparing the page url to validate the page
+19 Sep 2018 01:10:30,030[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 01:10:41,041[main] INFO  utility.Log4j  - clicking in the signup link
+19 Sep 2018 01:10:46,046[main] WARN  utility.Log4j  - comparing the value to check wheather this page is signup page or not
+19 Sep 2018 01:10:46,046[main] INFO  utility.Log4j  - giving valid crediantial to signup
+19 Sep 2018 01:10:46,046[main] WARN  utility.Log4j  - error may occure due to excel sheet failure
+19 Sep 2018 01:10:46,046[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:10:46,046[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:10:47,047[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:10:47,047[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:10:56,056[main] INFO  utility.Log4j  - visiting login page
+19 Sep 2018 01:10:59,059[main] WARN  utility.Log4j  - error may occur during visiting
+19 Sep 2018 01:11:03,003[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+19 Sep 2018 01:11:06,006[main] INFO  utility.Log4j  - inserting a useremail and password crediential
+19 Sep 2018 01:11:06,006[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:11:06,006[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 01:11:10,010[main] INFO  utility.Log4j  - logging out from a account
+19 Sep 2018 01:11:12,012[main] INFO  utility.Log4j  - ****************            WeHealU       -E---N---D-      *********************
+19 Sep 2018 01:11:12,012[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:11:12,012[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 01:11:12,012[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 01:11:12,012[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 01:11:12,012[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 01:11:12,012[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 01:11:12,012[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 01:11:12,012[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 01:11:12,012[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 01:11:12,012[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 01:11:12,012[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 01:11:12,012[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 01:11:13,013[main] DEBUG utility.Log4j  - trying to sending message
+19 Sep 2018 08:47:24,024[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 08:47:24,024[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 08:47:24,024[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+19 Sep 2018 08:47:29,029[main] DEBUG utility.Log4j  - maximizing window
+19 Sep 2018 08:47:29,029[main] DEBUG utility.Log4j  - opening url
+19 Sep 2018 08:47:50,050[main] INFO  utility.Log4j  - Excel sheet opened
+19 Sep 2018 08:48:00,000[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 08:48:01,001[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 08:48:07,007[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 08:48:07,007[main] DEBUG utility.Log4j  - visiting aboutus spage
+19 Sep 2018 08:48:13,013[main] WARN  utility.Log4j  - comparing the page url to validate the page
+19 Sep 2018 08:48:13,013[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 08:48:24,024[main] INFO  utility.Log4j  - clicking in the signup link
+19 Sep 2018 08:48:29,029[main] WARN  utility.Log4j  - comparing the value to check wheather this page is signup page or not
+19 Sep 2018 08:48:30,030[main] INFO  utility.Log4j  - giving valid crediantial to signup
+19 Sep 2018 08:48:30,030[main] WARN  utility.Log4j  - error may occure due to excel sheet failure
+19 Sep 2018 08:48:30,030[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:48:30,030[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:48:30,030[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:48:31,031[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:48:40,040[main] INFO  utility.Log4j  - visiting login page
+19 Sep 2018 08:48:43,043[main] WARN  utility.Log4j  - error may occur during visiting
+19 Sep 2018 08:48:46,046[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+19 Sep 2018 08:48:50,050[main] INFO  utility.Log4j  - inserting a useremail and password crediential
+19 Sep 2018 08:48:50,050[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:48:50,050[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:48:55,055[main] INFO  utility.Log4j  - logging out from a account
+19 Sep 2018 08:48:56,056[main] INFO  utility.Log4j  - ****************            WeHealU       -E---N---D-      *********************
+19 Sep 2018 08:48:56,056[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 08:48:56,056[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 08:48:57,057[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 08:48:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 08:48:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 08:48:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 08:48:57,057[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 08:48:57,057[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 08:48:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 08:48:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 08:48:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 08:48:57,057[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 08:48:57,057[main] DEBUG utility.Log4j  - trying to sending message
+19 Sep 2018 08:56:57,057[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 08:56:57,057[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 08:56:57,057[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+19 Sep 2018 08:57:02,002[main] DEBUG utility.Log4j  - maximizing window
+19 Sep 2018 08:57:02,002[main] DEBUG utility.Log4j  - opening url
+19 Sep 2018 08:57:13,013[main] INFO  utility.Log4j  - Excel sheet opened
+19 Sep 2018 08:57:23,023[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 08:57:24,024[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 08:57:30,030[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 08:57:31,031[main] DEBUG utility.Log4j  - visiting aboutus spage
+19 Sep 2018 08:57:36,036[main] WARN  utility.Log4j  - comparing the page url to validate the page
+19 Sep 2018 08:57:36,036[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+19 Sep 2018 08:57:47,047[main] INFO  utility.Log4j  - clicking in the signup link
+19 Sep 2018 08:57:52,052[main] WARN  utility.Log4j  - comparing the value to check wheather this page is signup page or not
+19 Sep 2018 08:57:53,053[main] INFO  utility.Log4j  - giving valid crediantial to signup
+19 Sep 2018 08:57:53,053[main] WARN  utility.Log4j  - error may occure due to excel sheet failure
+19 Sep 2018 08:57:53,053[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:57:53,053[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:57:54,054[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:57:54,054[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:58:03,003[main] INFO  utility.Log4j  - visiting login page
+19 Sep 2018 08:58:06,006[main] WARN  utility.Log4j  - error may occur during visiting
+19 Sep 2018 08:58:10,010[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+19 Sep 2018 08:58:14,014[main] INFO  utility.Log4j  - inserting a useremail and password crediential
+19 Sep 2018 08:58:14,014[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:58:14,014[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+19 Sep 2018 08:58:18,018[main] INFO  utility.Log4j  - logging out from a account
+19 Sep 2018 08:58:20,020[main] INFO  utility.Log4j  - ****************            WeHealU       -E---N---D-      *********************
+19 Sep 2018 08:58:20,020[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 08:58:20,020[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 08:58:20,020[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 08:58:20,020[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 08:58:20,020[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 08:58:20,020[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 08:58:20,020[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 08:58:21,021[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 08:58:21,021[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 08:58:21,021[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 08:58:21,021[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 08:58:21,021[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 11:26:19,019[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 11:26:19,019[main] INFO  utility.Log4j  -                                                                                                
+19 Sep 2018 11:26:19,019[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+19 Sep 2018 11:26:24,024[main] DEBUG utility.Log4j  - maximizing window
+19 Sep 2018 11:26:24,024[main] DEBUG utility.Log4j  - opening url
+19 Sep 2018 11:26:38,038[main] INFO  utility.Log4j  - Excel sheet opened
+19 Sep 2018 11:26:48,048[main] DEBUG utility.Log4j  - visiting contact us spage
+19 Sep 2018 11:26:48,048[main] WARN  utility.Log4j  - visiting Health Forum page
+19 Sep 2018 11:26:55,055[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+19 Sep 2018 11:26:55,055[main] WARN  utility.Log4j  - checking Health Forum Link
+19 Sep 2018 11:26:56,056[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 11:26:56,056[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 11:26:56,056[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 11:26:56,056[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 11:26:56,056[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19 Sep 2018 11:26:57,057[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19 Sep 2018 11:26:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19 Sep 2018 11:26:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19 Sep 2018 11:26:57,057[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19 Sep 2018 11:26:57,057[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+20 Sep 2018 12:42:48,048[main] INFO  utility.Log4j  -                                                                                                
+20 Sep 2018 12:42:48,048[main] INFO  utility.Log4j  -                                                                                                
+20 Sep 2018 12:42:48,048[main] INFO  utility.Log4j  - ****************            WeHealU      --START--      *********************
+20 Sep 2018 12:42:53,053[main] DEBUG utility.Log4j  - maximizing window
+20 Sep 2018 12:42:53,053[main] DEBUG utility.Log4j  - opening url
+20 Sep 2018 12:43:04,004[main] INFO  utility.Log4j  - Excel sheet opened
+20 Sep 2018 12:43:14,014[main] DEBUG utility.Log4j  - visiting contact us spage
+20 Sep 2018 12:43:15,015[main] WARN  utility.Log4j  - visiting Health Forum page
+20 Sep 2018 12:43:22,022[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+20 Sep 2018 12:43:22,022[main] WARN  utility.Log4j  - checking Health Forum Link
+20 Sep 2018 12:43:23,023[main] DEBUG utility.Log4j  - visiting contact us spage
+20 Sep 2018 12:43:28,028[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+20 Sep 2018 12:43:29,029[main] DEBUG utility.Log4j  - visiting aboutus spage
+20 Sep 2018 12:43:34,034[main] WARN  utility.Log4j  - comparing the page url to validate the page
+20 Sep 2018 12:43:35,035[main] INFO  utility.Log4j  - picking the value of title header of a iframe to validate the page
+20 Sep 2018 12:43:46,046[main] INFO  utility.Log4j  - clicking in the signup link
+20 Sep 2018 12:43:51,051[main] WARN  utility.Log4j  - comparing the value to check wheather this page is signup page or not
+20 Sep 2018 12:43:51,051[main] INFO  utility.Log4j  - giving valid crediantial to signup
+20 Sep 2018 12:43:51,051[main] WARN  utility.Log4j  - error may occure due to excel sheet failure
+20 Sep 2018 12:43:51,051[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+20 Sep 2018 12:43:52,052[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+20 Sep 2018 12:43:52,052[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+20 Sep 2018 12:43:52,052[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+20 Sep 2018 12:44:02,002[main] INFO  utility.Log4j  - visiting login page
+20 Sep 2018 12:44:05,005[main] WARN  utility.Log4j  - error may occur during visiting
+20 Sep 2018 12:44:08,008[main] WARN  utility.Log4j  - checking that wheather it is a valid page or not
+20 Sep 2018 12:44:11,011[main] INFO  utility.Log4j  - inserting a useremail and password crediential
+20 Sep 2018 12:44:11,011[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+20 Sep 2018 12:44:12,012[main] INFO  utility.Log4j  - Total number of Row used return as < 51 >.
+20 Sep 2018 12:44:16,016[main] INFO  utility.Log4j  - logging out from a account
+20 Sep 2018 12:44:17,017[main] INFO  utility.Log4j  - ****************            WeHealU       -E---N---D-      *********************
+20 Sep 2018 12:44:17,017[main] INFO  utility.Log4j  -                                                                                                
+20 Sep 2018 12:44:17,017[main] INFO  utility.Log4j  -                                                                                                
+20 Sep 2018 12:44:18,018[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+20 Sep 2018 12:44:18,018[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+20 Sep 2018 12:44:18,018[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+20 Sep 2018 12:44:18,018[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+20 Sep 2018 12:44:18,018[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+20 Sep 2018 12:44:18,018[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+20 Sep 2018 12:44:18,018[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+20 Sep 2018 12:44:18,018[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+20 Sep 2018 12:44:18,018[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+20 Sep 2018 12:44:18,018[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/m1047073/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

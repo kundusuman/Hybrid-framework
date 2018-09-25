@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Flipkart(failed)">
+    <classes>
+      <class name="executionclasses.VisitHomePage_Test">
+        <methods>
+          <include name="visitPage"/>
+          <include name="checkHomePage"/>
+        </methods>
+      </class> <!-- executionclasses.VisitHomePage_Test -->
+      <class name="executionclasses.RegisterAsAPatientPage_Test">
+        <methods>
+          <include name="Register_New_User"/>
+          <include name="visit_Register_Page"/>
+        </methods>
+      </class> <!-- executionclasses.RegisterAsAPatientPage_Test -->
+    </classes>
+  </test> <!-- Flipkart(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

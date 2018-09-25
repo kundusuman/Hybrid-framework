@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="37138" started-at="2018-09-19T05:56:19Z" finished-at="2018-09-19T05:56:56Z">
+    <groups>
+    </groups>
+    <test name="Flipkart" duration-ms="37138" started-at="2018-09-19T05:56:19Z" finished-at="2018-09-19T05:56:56Z">
+      <class name="executionclasses.VisitHomePage_Test">
+        <test-method status="PASS" signature="visitPage()[pri:0, instance:executionclasses.VisitHomePage_Test@2b98378d]" name="visitPage" is-config="true" duration-ms="18631" started-at="2018-09-19T11:26:19Z" finished-at="2018-09-19T11:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitPage -->
+        <test-method status="PASS" signature="checkHomePage()[pri:0, instance:executionclasses.VisitHomePage_Test@2b98378d]" name="checkHomePage" duration-ms="10121" started-at="2018-09-19T11:26:38Z" finished-at="2018-09-19T11:26:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHomePage -->
+      </class> <!-- executionclasses.VisitHomePage_Test -->
+      <class name="executionclasses.HealthForumPage_Test">
+        <test-method status="PASS" signature="clickOnHealthForumLink()[pri:0, instance:executionclasses.HealthForumPage_Test@26653222]" name="clickOnHealthForumLink" duration-ms="6364" started-at="2018-09-19T11:26:48Z" finished-at="2018-09-19T11:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnHealthForumLink -->
+        <test-method status="PASS" signature="checkHealthForumPage()[pri:0, instance:executionclasses.HealthForumPage_Test@26653222]" name="checkHealthForumPage" duration-ms="148" started-at="2018-09-19T11:26:55Z" depends-on-methods="executionclasses.HealthForumPage_Test.clickOnHealthForumLink" finished-at="2018-09-19T11:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHealthForumPage -->
+      </class> <!-- executionclasses.HealthForumPage_Test -->
+    </test> <!-- Flipkart -->
+  </suite> <!-- Suite1 -->
+</testng-results>
